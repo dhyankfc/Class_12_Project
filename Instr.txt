@@ -1,0 +1,20 @@
+                                                 
+                                               << How to Play: >>
+ 
+
+Choose either one of the games, Hangman or CPS-Test
+
+
+-> How to Play HANGMAN:
+
+          The computer generates a word by random and you have to guess 
+          the word either letter by letter, or the whole word itself, you get a 
+          total of 6 tries before the hangman dies and your game is over.
+          Click Retry if you want to try again
+
+
+-> How to play CPS TEST:
+
+          You have 5 seconds to click as fast as possible.
+          The countdown starts as soon as you click the button
+
